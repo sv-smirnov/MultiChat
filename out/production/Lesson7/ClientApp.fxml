@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="center" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.2" fx:controller="Lesson7.ClientController">
+    <Label fx:id="label" text="Не авторизованый пользователь" />
+    <FlowPane fx:id="login" prefHeight="13.0" prefWidth="600.0">
+            <Label text="Login: " />
+            <TextField fx:id="log" />
+            <Label text="      Password: " />
+            <TextField fx:id="pass" />
+            <Button mnemonicParsing="false" onAction="#btnLogin" text="LOGIN" />
+    </FlowPane>
+    <TextArea fx:id="chatArea" editable="false"  VBox.vgrow="ALWAYS" />
+   <TextArea prefHeight="0.0" prefWidth="600.0" fx:id="chatArea2" editable="false" visible="false" VBox.vgrow="ALWAYS" />
+    <TextField fx:id="message" onAction="#btnSend" visible="false" VBox.vgrow="ALWAYS"  />
+    <Button fx:id="send" onAction="#btnSend" text="Отправить" visible="false" />
+
+</VBox>

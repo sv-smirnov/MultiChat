@@ -1,0 +1,29 @@
+nick6: 1
+nick6: 2
+nick6: 3
+nick6: 4
+nick6: 5
+nick6: 6
+nick6: 7
+nick6: 8
+nick6: 9
+nick6: 10
+nick6: 11
+
+nick6: asdasdasda
+nick6: sadasdas
+nick6: fsfsdfsdf
+nick6: dasdas
+nick6: sadsad
+*nick2 зашел в чат
+nick2: 123
+*nick2 зашел в чат
+nick2: Привет)
+nick6: Дарова! Как сам?)
+nick2: Нормально, что седня делавешь?
+nick6: Да вот думал хзорошенько початиться в чате!
+nick2: Ух ты я тоже
+nick2: Ну рассказывай...
+nick2: чо нового
+nick3: гыук
+*nick3 вышел из чата

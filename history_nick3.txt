@@ -1,0 +1,10 @@
+nick3: wqeqwe
+nick3: 123123123
+nick2: 1
+*nick2 вышел из чата
+nick3: sadasdas
+nick3: 'q gf
+nick3: эй пацаны как дела?)
+*nick2 вышел из чата
+*nick6 зашел в чат
+nick3: гыук

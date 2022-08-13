@@ -1,0 +1,75 @@
+INFO  2021-12-24 13:58:10 [main] ServerLog (ServerLog.java:8) - Info
+WARN  2021-12-24 13:58:10 [main] ServerLog (ServerLog.java:9) - Warn
+ERROR 2021-12-24 13:58:10 [main] ServerLog (ServerLog.java:10) - Error
+FATAL 2021-12-24 13:58:10 [main] ServerLog (ServerLog.java:11) - Fatal
+INFO  2021-12-24 14:08:45 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:10:10 [main] BaseAuthService (AuthService.java:33) - Сервис аутентификации запущен
+INFO  2021-12-24 14:10:10 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:10:28 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:10:28 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:12:36 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:12:36 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:15:11 [main] BaseAuthService (AuthService.java:33) - Сервис аутентификации запущен
+INFO  2021-12-24 14:15:11 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:15:17 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:15:17 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+ERROR 2021-12-24 14:15:32 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2021-12-24 14:19:48 [main] BaseAuthService (AuthService.java:33) - Сервис аутентификации запущен
+INFO  2021-12-24 14:19:48 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:20:03 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:20:03 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+ERROR 2021-12-24 14:20:27 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2021-12-24 14:20:35 [main] BaseAuthService (AuthService.java:33) - Сервис аутентификации запущен
+INFO  2021-12-24 14:20:35 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:20:41 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:20:41 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+ERROR 2021-12-24 14:20:53 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2021-12-24 14:21:07 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2021-12-24 14:21:07 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2021-12-24 14:21:21 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick3 прислал сообщение sadasdas
+ERROR 2021-12-24 14:21:40 [pool-2-thread-2] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2022-02-27 23:37:14 [main] BaseAuthService (AuthService.java:32) - Сервис аутентификации запущен
+INFO  2022-02-27 23:37:14 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-02-27 23:37:28 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-02-27 23:37:28 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+ERROR 2022-02-27 23:37:43 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2022-03-02 22:31:00 [main] BaseAuthService (AuthService.java:32) - Сервис аутентификации запущен
+INFO  2022-03-02 22:31:00 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-03-02 22:31:24 [main] BaseAuthService (AuthService.java:32) - Сервис аутентификации запущен
+INFO  2022-03-02 22:31:24 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:40:49 [main] BaseAuthService (AuthService.java:32) - Сервис аутентификации запущен
+INFO  2022-08-13 12:40:50 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:41:03 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:41:03 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:41:37 [pool-2-thread-1] ClientHandler (ClientHandler.java:112) - nick6 прислал сообщение: sadsad
+INFO  2022-08-13 12:42:06 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:42:06 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:42:26 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: 123
+ERROR 2022-08-13 12:42:37 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketTimeoutException: Read timed out
+INFO  2022-08-13 12:43:05 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: Ghbdtn rf rltkf&
+ERROR 2022-08-13 12:43:10 [pool-2-thread-2] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+INFO  2022-08-13 12:43:56 [main] BaseAuthService (AuthService.java:32) - Сервис аутентификации запущен
+INFO  2022-08-13 12:43:57 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:44:04 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:44:04 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:44:22 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:44:22 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:44:43 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: Привет)
+INFO  2022-08-13 12:44:57 [pool-2-thread-1] ClientHandler (ClientHandler.java:112) - nick6 прислал сообщение: Дарова! Как сам?)
+INFO  2022-08-13 12:45:09 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: Нормально, что седня делавешь?
+INFO  2022-08-13 12:45:33 [pool-2-thread-1] ClientHandler (ClientHandler.java:112) - nick6 прислал сообщение: Да вот думал хзорошенько початиться в чате!
+INFO  2022-08-13 12:45:52 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: Ух ты я тоже
+INFO  2022-08-13 12:46:07 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: Ну рассказывай...
+INFO  2022-08-13 12:46:12 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: чо нового
+ERROR 2022-08-13 12:46:33 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketTimeoutException: Read timed out
+INFO  2022-08-13 12:46:43 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:46:43 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+INFO  2022-08-13 12:47:01 [pool-2-thread-2] ClientHandler (ClientHandler.java:112) - nick2 прислал сообщение: да все также
+INFO  2022-08-13 12:47:31 [pool-2-thread-3] ClientHandler (ClientHandler.java:112) - nick3 прислал сообщение: 'q gf
+INFO  2022-08-13 12:47:37 [pool-2-thread-3] ClientHandler (ClientHandler.java:112) - nick3 прислал сообщение: эй пацаны как дела?)
+INFO  2022-08-13 12:47:54 [main] MyServer (MyServer.java:35) - Клиент подключился
+INFO  2022-08-13 12:47:54 [main] MyServer (MyServer.java:32) - Сервер ожидает подключения
+ERROR 2022-08-13 12:48:01 [pool-2-thread-2] ClientHandler (ClientHandler.java:34) - java.net.SocketTimeoutException: Read timed out
+INFO  2022-08-13 12:48:13 [pool-2-thread-3] ClientHandler (ClientHandler.java:112) - nick3 прислал сообщение: гыук
+ERROR 2022-08-13 12:48:15 [pool-2-thread-3] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
+ERROR 2022-08-13 12:48:17 [pool-2-thread-1] ClientHandler (ClientHandler.java:34) - java.net.SocketException: Connection reset
